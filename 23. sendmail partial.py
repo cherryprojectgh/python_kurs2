@@ -56,3 +56,7 @@ url = 'https://www.mobilo24.eu/wp-content/uploads/2015/11/Mobilo_logo_kolko_512-
 dir = 'c:/temp/'
 file = 'logo.png'
 save_url_to_dir(url = url, file = file)
+
+# Funkcja partial w Pythonie służy do częściowego przekazywania argumentów do funkcji, 
+# tworząc w ten sposób nową funkcję z mniejszą liczbą argumentów. 
+# Funkcja partial jest dostępna w module functools.
