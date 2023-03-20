@@ -1,5 +1,6 @@
 import os
 import zipfile
+import requests
 
 class ini_file:
 
@@ -52,7 +53,7 @@ with ini_file(r'C:\Users\Bartek\Documents\Python\pliki\my.ini') as ini:
     print(10/0)
 
 # ------------------------------------------------------------------------------------
-
+dupa = 123
 class zip_from_web:
 
     def __init__(self, url, path):

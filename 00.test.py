@@ -9,3 +9,5 @@ letters = set(text)
 roznica = letters.difference(vowels)
     
 print('Liczba elementów:', len(roznica))
+
+for
